@@ -1,0 +1,16 @@
+  801  ls /dev
+  802  node
+  803  disk
+  804  brew install mkvtoolnix
+  805  npm -v
+  806  npm install -g @angular/cli\n
+  807  sudo npm install -g @angular/cli\n
+  808  ll
+  809  ls
+  810  ng generate component --help
+  811  cd Documents
+  812  ng new my-app
+  813  ls
+  814  code my-app
+  815  sudo killall -STOP -c usbd
+  816  ng g component shared/shell --export
