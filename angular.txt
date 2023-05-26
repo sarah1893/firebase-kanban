@@ -10,7 +10,5 @@
   810  ng generate component --help
   811  cd Documents
   812  ng new my-app
-  813  ls
-  814  code my-app
-  815  sudo killall -STOP -c usbd
+  813  ng g module shared
   816  ng g component shared/shell --export
